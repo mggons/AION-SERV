@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawns>
+    <spawn_map map_id="210050000">
+        <spawn npc_id="247585" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1079.4203" y="1582.6066" z="407.90652" h="24"/>
+        </spawn>
+        <spawn npc_id="247573" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1080.276" y="1591.8296" z="407.90656" h="30"/>
+            <spot x="1080.463" y="1616.771" z="409.93912" h="29"/>
+        </spawn>
+        <spawn npc_id="247735" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1080.463" y="1616.771" z="409.93912" h="29"/>
+        </spawn>
+        <spawn npc_id="283570" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1089.0082" y="1621.879" z="409.93912" h="10"/>
+            <spot x="1079.155" y="1614.6174" z="409.93912" h="76"/>
+        </spawn>
+        <spawn npc_id="252491" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1078.9102" y="1614.3456" z="409.93912" h="75"/>
+        </spawn>
+        <spawn npc_id="290115" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1078.9102" y="1614.3456" z="409.93912" h="75"/>
+        </spawn>
+        <spawn npc_id="233460" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1079.0776" y="1615.7389" z="409.93912" h="91"/>
+        </spawn>
+        <spawn npc_id="883881" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1077.752" y="1611.3293" z="409.42667" h="84"/>
+            <spot x="1077.752" y="1611.3293" z="409.42667" h="0"/>
+            <spot x="1084.5128" y="1611.7126" z="409.54745" h="83"/>
+            <spot x="1083.7557" y="1609.576" z="408.87415" h="83"/>
+            <spot x="1082.644" y="1606.4386" z="407.90643" h="83"/>
+            <spot x="1082.0764" y="1604.8365" z="407.90646" h="83"/>
+            <spot x="1081.2014" y="1602.3668" z="407.90652" h="83"/>
+            <spot x="1080.6102" y="1600.6981" z="407.90656" h="83"/>
+            <spot x="1079.7115" y="1598.1619" z="407.9066" h="83"/>
+            <spot x="1079.1204" y="1596.4932" z="407.90662" h="83"/>
+        </spawn>
+        <spawn npc_id="857542" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1074.3115" y="1598.0153" z="407.90677" h="85"/>
+        </spawn>
+        <spawn npc_id="251676" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1070.6312" y="1590.4711" z="407.90665" h="73"/>
+        </spawn>
+        <spawn npc_id="240918" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1076.1987" y="1602.6185" z="407.90674" h="22"/>
+        </spawn>
+        <spawn npc_id="257144" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1076.7278" y="1603.3522" z="407.90674" h="23"/>
+            <spot x="1078.1686" y="1616.8611" z="409.93912" h="98"/>
+        </spawn>
+        <spawn npc_id="257772" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1075.1832" y="1600.7957" z="407.9068" h="31"/>
+        </spawn>
+        <spawn npc_id="258026" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1075.1832" y="1600.7957" z="407.9068" h="31"/>
+            <spot x="1073.9613" y="1615.45" z="409.93912" h="88"/>
+            <spot x="1084.6791" y="1616.4241" z="409.93912" h="111"/>
+        </spawn>
+        <spawn npc_id="277829" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1080.8016" y="1617.2585" z="409.93912" h="85"/>
+        </spawn>
+        <spawn npc_id="279509" respawn_time="295" difficult_id="0" custom="true">
+            <spot x="1080.1493" y="1616.9586" z="409.93912" h="90"/>
+        </spawn>
+    </spawn_map>
+</spawns>

@@ -1,0 +1,24 @@
+2022-12-13 11:16:54,959 Cant add tempering modifiers for item: 100201602 , null
+2022-12-13 11:16:57,648 Cant add tempering modifiers for item: 100201602 , null
+2022-12-13 11:20:51,578 Cant add tempering modifiers for item: 100901457 , null
+2022-12-13 11:53:41,280 Error handling client (mggons) message :[C] 0xE1 CM_GM_COMMAND_SEND
+java.lang.IllegalArgumentException: Invalid GmPanelCommands id: reset_inven
+	at com.aionemu.gameserver.model.gm.GmPanelCommands.getValue(GmPanelCommands.java:79) ~[AL-Game.jar:na]
+	at com.aionemu.gameserver.network.aion.clientpackets.CM_GM_COMMAND_SEND.runImpl(CM_GM_COMMAND_SEND.java:85) ~[AL-Game.jar:na]
+	at com.aionemu.gameserver.network.aion.AionClientPacket.run(AionClientPacket.java:65) ~[AL-Game.jar:na]
+	at com.aionemu.commons.utils.concurrent.ExecuteWrapper.execute(ExecuteWrapper.java:48) [al-commons.jar:na]
+	at com.aionemu.commons.utils.concurrent.ExecuteWrapper.execute(ExecuteWrapper.java:41) [al-commons.jar:na]
+	at com.aionemu.commons.network.PacketProcessor$PacketProcessorTask.run(PacketProcessor.java:266) [al-commons.jar:na]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_80]
+2022-12-13 12:08:26,632 
+java.lang.ArrayIndexOutOfBoundsException: 1
+	at admincommands.Equip.execute(Equip.java]:57) ~[na:na]
+	at com.aionemu.gameserver.utils.chathandlers.ChatCommand.run(ChatCommand.java:41) ~[AL-Game.jar:na]
+	at com.aionemu.gameserver.utils.chathandlers.AdminCommand.process(AdminCommand.java:62) [AL-Game.jar:na]
+	at com.aionemu.gameserver.utils.chathandlers.ChatProcessor.handleChatCommand(ChatProcessor.java:182) [AL-Game.jar:na]
+	at com.aionemu.gameserver.network.aion.clientpackets.CM_CHAT_MESSAGE_PUBLIC.runImpl(CM_CHAT_MESSAGE_PUBLIC.java:67) [AL-Game.jar:na]
+	at com.aionemu.gameserver.network.aion.AionClientPacket.run(AionClientPacket.java:65) [AL-Game.jar:na]
+	at com.aionemu.commons.utils.concurrent.ExecuteWrapper.execute(ExecuteWrapper.java:48) [al-commons.jar:na]
+	at com.aionemu.commons.utils.concurrent.ExecuteWrapper.execute(ExecuteWrapper.java:41) [al-commons.jar:na]
+	at com.aionemu.commons.network.PacketProcessor$PacketProcessorTask.run(PacketProcessor.java:266) [al-commons.jar:na]
+	at java.lang.Thread.run(Thread.java:745) [na:1.7.0_80]
